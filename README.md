@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 ## Project Overview
 
-The purpose of this challenge is to make more efficient Python API by adding weather descriptions and weather data. Customers will be able to use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. 
+The purpose of this challenge is to make more efficient the App using "Python API" by adding weather descriptions and weather data. Customers will be able to use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. 
 After obtaining the data, they will be able to create a travel itinerary, a travel map and finally a marker layer map.
 
 ## Resources
@@ -24,7 +24,7 @@ After obtaining the data, they will be able to create a travel itinerary, a trav
 
 • Google Places APIs
 
-•[cities.csv](https://github.com/muurid1/World_Weather_Analysis/files/9204714/cities.csv) / [City_ID.csv](https://github.com/muurid1/World_Weather_Analysis/files/9204716/City_ID.csv) / 
+• [cities.csv](https://github.com/muurid1/World_Weather_Analysis/files/9204714/cities.csv) / [City_ID.csv](https://github.com/muurid1/World_Weather_Analysis/files/9204716/City_ID.csv) / 
 [vacation.csv](https://github.com/muurid1/World_Weather_Analysis/files/9204717/vacation.csv)
 
 ## Results
