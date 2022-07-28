@@ -31,7 +31,7 @@ After obtaining the data, they will be able to create a travel itinerary, a trav
 
 #### Travel Destination
 
-The data collected from the weather database and  Google Maps API helped plot different travel destinationsas well as weather description, temperature, and country or/and city.
+The data collected from the weather database and  Google Maps API helped obtain different travel destinations as well as weather description, temperature, and country or/and city.
 
 ![map](https://user-images.githubusercontent.com/107282754/181405330-0766cfb7-1e8a-445d-8da2-286113ef99b0.png)
 
